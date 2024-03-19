@@ -9,6 +9,13 @@
         "charliermarsh.ruff",
         "ms-python.mypy-type-checker"
       ]
+    },
+    "codespaces": {
+      "repositories": {
+        "Super-Sod/*": {
+          "permissions": "write-all"
+        }
+      }
     }
 },
 "features": {
